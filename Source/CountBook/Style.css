@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    background-color: rgb(58, 54, 112);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  #count-button {
+    padding: 25px 20px;
+    margin: 5px 5px     ;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+  }
